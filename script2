@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+hostanme; uptime; date; > output2.txt
